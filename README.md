@@ -15,3 +15,5 @@ Sky Relay NeoForge Edition is the Minecraft/NeoForge compatibility lane for
 Implementation foundation only. Keep preview-only until data, generated assets,
 recipes, fragment anchoring, storm behavior, save/load, and launcher flows pass.
 
+Gameplay evidence must follow `docs/gameplay-evidence.md` and the template at
+`fixtures/sky-relay/gameplay-qa/manual-evidence.template.json`.
