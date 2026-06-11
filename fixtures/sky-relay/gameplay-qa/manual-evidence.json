@@ -40,6 +40,9 @@
   "run": {
     "tester": "TBD",
     "releaseTag": "sky-relay-neoforge-0.1.0-alpha",
+    "artifactAsset": "sky-relay-neoforge-edition-0.1.0.zip",
+    "artifactSha256": "04fde5ab03cd89ee3717a90491d818de2659cf77cfc5ea9b0e1ad43e64a9ca7b",
+    "artifactSize": 40132235,
     "launcherChannel": "alpha",
     "worldOrProfile": "TBD",
     "installedFrom": "ECHO Launcher",
