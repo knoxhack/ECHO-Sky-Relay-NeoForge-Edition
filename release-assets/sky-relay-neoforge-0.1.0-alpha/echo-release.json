@@ -6,7 +6,7 @@
   "channel": "alpha",
   "releasedAt": "2026-06-11T12:01:50.395Z",
   "manifestAsset": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "977193ea843bc1aafc6a817d1487358acd25cb9105a2a2b34346678f02ea6ce1",
+  "manifestSha256": "668a1dbabaf3612ac815e0293e5e66ae2175b0248a3cf43cd30978dfaf53d5da",
   "artifactMode": "zip",
   "artifactAsset": "sky-relay-neoforge-edition-0.1.0.zip",
   "artifactSha256": "04fde5ab03cd89ee3717a90491d818de2659cf77cfc5ea9b0e1ad43e64a9ca7b",
@@ -25,8 +25,8 @@
     {
       "name": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "977193ea843bc1aafc6a817d1487358acd25cb9105a2a2b34346678f02ea6ce1",
-      "size": 11225
+      "sha256": "668a1dbabaf3612ac815e0293e5e66ae2175b0248a3cf43cd30978dfaf53d5da",
+      "size": 23939
     },
     {
       "name": "sky-relay-neoforge-edition-0.1.0.zip",
