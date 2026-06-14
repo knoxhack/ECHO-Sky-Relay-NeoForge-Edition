@@ -1173,8 +1173,8 @@
       }
     ]
   },
-  "artifactSha256": "0c2aa38462e78c98593249274d3574de15d8c74e7e77c65887d1c114e948f92b",
-  "artifactSize": 157101476,
+  "artifactSha256": "2c719be3ae2e2d42e5bf7c9f465d3106d11f72eca1ba4af1d429268541a0467c",
+  "artifactSize": 154747552,
   "runtimeTarget": "neoforge",
   "id": "sky-relay-neoforge-edition",
   "artifactUrl": "https://github.com/knoxhack/ECHO-Sky-Relay-NeoForge-Edition/releases/download/sky-relay-neoforge-0.1.0-alpha/sky-relay-neoforge-edition-0.1.0.zip",
