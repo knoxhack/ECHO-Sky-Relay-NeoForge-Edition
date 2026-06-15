@@ -1,486 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-14T11:13:30.3685313Z",
+  "generatedAt": "2026-06-15T07:39:30.424Z",
   "repository": "knoxhack/ECHO-Sky-Relay-NeoForge-Edition",
   "releaseTag": "sky-relay-neoforge-0.1.0-alpha",
-  "status": "verified-prerelease-assets",
+  "status": "pass",
   "releaseUrl": "https://github.com/knoxhack/ECHO-Sky-Relay-NeoForge-Edition/releases/tag/sky-relay-neoforge-0.1.0-alpha",
-  "assetDirectory": "release-assets/sky-relay-neoforge-0.1.0-alpha",
+  "assetDirectory": "C:\\Development\\Github\\ECHO-Sky-Relay-NeoForge-Edition\\release-assets\\sky-relay-neoforge-0.1.0-alpha",
   "uploadedReleaseAssets": [
-    "checksums.txt",
-    "echo-release.json",
-    "neoforge-harness-driver-manifest.template.json",
-    "release-manifest.template.json",
     "sky-relay-neoforge-edition-0.1.0.zip",
     "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
-    "sky-relay-pack-build-report.json"
+    "checksums.txt",
+    "echo-release.json"
   ],
   "sidecarAssets": [
     "release-audit.json"
   ],
   "assets": [
     {
-      "name": "checksums.txt",
-      "size": 302,
-      "sha256": "a5b4b9f02e8a755541e0b678cc7e6ddfedfe21832d97e6b25a67d6f2c7613af2"
-    },
-    {
-      "name": "echo-release.json",
-      "size": 12625,
-      "sha256": "afe149d1dcbbe8f1673c43e43bb7cfdd337ed1ab2694d7c257a33ef4ae5131a9"
-    },
-    {
-      "name": "neoforge-harness-driver-manifest.template.json",
-      "size": 1151,
-      "sha256": "1766f7e8fe95ca184111c959025fa4e6f4fa3392f5dbfeac12e17285fac96541"
-    },
-    {
-      "name": "release-manifest.template.json",
-      "size": 1628,
-      "sha256": "dd29aa1a255590b611fde1c2cd321211872462f8f003fd23af53efcacba99393"
-    },
-    {
       "name": "sky-relay-neoforge-edition-0.1.0.zip",
-      "size": 155087317,
-      "sha256": "6fb1c204d7375cb6ec071cde969a74560d742113bf8a43366bfff9bf8f30aeba"
+      "size": 154927486,
+      "sha256": "97d37ae079e732c2dc9940098ca23e5f92724bdd546248bc212da6ce58439f11"
     },
     {
       "name": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
-      "size": 55142,
-      "sha256": "6dd5897aa089403d0e1cdd026357686ef53d19584d83a9995c37375e88e08bca"
+      "size": 86081,
+      "sha256": "31ca2357842b4b677a75a54270450258baccd2a5438d843b82396b37c627a2ec"
     },
     {
-      "name": "sky-relay-pack-build-report.json",
-      "size": 6535,
-      "sha256": "a0c49c485b9eaf3d0392f1ddb1c872549c235ce7e8b0fa824e59b21ed35277d8"
+      "name": "checksums.txt",
+      "size": 302,
+      "sha256": "7e355c7328526c5d893775dd3486a85668efa159ae6d364069f8a7114a333761"
+    },
+    {
+      "name": "echo-release.json",
+      "size": 12887,
+      "sha256": "79960d3684cbca3dfac6244f34ac2075cfea1b87df32fae959f3f1bdea058fcd"
     }
   ],
   "zip": {
     "file": "sky-relay-neoforge-edition-0.1.0.zip",
-    "entries": 46,
-    "sha256": "6fb1c204d7375cb6ec071cde969a74560d742113bf8a43366bfff9bf8f30aeba"
+    "entries": null,
+    "sha256": "97d37ae079e732c2dc9940098ca23e5f92724bdd546248bc212da6ce58439f11"
   },
   "checksumCoverage": {
-    "total": 46,
-    "releaseAssetFiles": 3,
-    "zipEntries": 43,
+    "total": 3,
+    "ok": 3,
     "missing": 0,
     "mismatched": 0
   },
   "checksumEntries": [
     {
-      "file": "sky-relay-neoforge-edition-0.1.0.zip",
-      "expectedSha256": "6fb1c204d7375cb6ec071cde969a74560d742113bf8a43366bfff9bf8f30aeba",
-      "actualSha256": "6fb1c204d7375cb6ec071cde969a74560d742113bf8a43366bfff9bf8f30aeba",
+      "file": "echo-release.json",
+      "expectedSha256": "79960d3684cbca3dfac6244f34ac2075cfea1b87df32fae959f3f1bdea058fcd",
+      "actualSha256": "79960d3684cbca3dfac6244f34ac2075cfea1b87df32fae959f3f1bdea058fcd",
       "coveredBy": "release-asset-file",
-      "matchedPath": "sky-relay-neoforge-edition-0.1.0.zip",
-      "size": 155087317,
-      "ok": true
+      "matchedPath": "echo-release.json"
     },
     {
-      "file": "echo-release.json",
-      "expectedSha256": "afe149d1dcbbe8f1673c43e43bb7cfdd337ed1ab2694d7c257a33ef4ae5131a9",
-      "actualSha256": "afe149d1dcbbe8f1673c43e43bb7cfdd337ed1ab2694d7c257a33ef4ae5131a9",
+      "file": "sky-relay-neoforge-edition-0.1.0.zip",
+      "expectedSha256": "97d37ae079e732c2dc9940098ca23e5f92724bdd546248bc212da6ce58439f11",
+      "actualSha256": "97d37ae079e732c2dc9940098ca23e5f92724bdd546248bc212da6ce58439f11",
       "coveredBy": "release-asset-file",
-      "matchedPath": "echo-release.json",
-      "size": 12625,
-      "ok": true
+      "matchedPath": "sky-relay-neoforge-edition-0.1.0.zip"
     },
     {
       "file": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
-      "expectedSha256": "6dd5897aa089403d0e1cdd026357686ef53d19584d83a9995c37375e88e08bca",
-      "actualSha256": "6dd5897aa089403d0e1cdd026357686ef53d19584d83a9995c37375e88e08bca",
+      "expectedSha256": "31ca2357842b4b677a75a54270450258baccd2a5438d843b82396b37c627a2ec",
+      "actualSha256": "31ca2357842b4b677a75a54270450258baccd2a5438d843b82396b37c627a2ec",
       "coveredBy": "release-asset-file",
-      "matchedPath": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
-      "size": 55142,
-      "ok": true
-    },
-    {
-      "file": "echoadaptercore-1.0.0-neoforge.jar",
-      "expectedSha256": "6e3843a1e05752454839298b763a1db05ae542532fe87a5d11118ea7908e99cf",
-      "actualSha256": "6e3843a1e05752454839298b763a1db05ae542532fe87a5d11118ea7908e99cf",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoadaptercore-1.0.0-neoforge.jar",
-      "size": 957548,
-      "ok": true
-    },
-    {
-      "file": "echoagriculturereclamation-1.0.0-neoforge.jar",
-      "expectedSha256": "5fe341281de2e5d69fd339cb0d66c242836bfd6434934d29d4c6bbd03fbbd53d",
-      "actualSha256": "5fe341281de2e5d69fd339cb0d66c242836bfd6434934d29d4c6bbd03fbbd53d",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoagriculturereclamation-1.0.0-neoforge.jar",
-      "size": 515481,
-      "ok": true
-    },
-    {
-      "file": "echoassetcore-1.0.0-neoforge.jar",
-      "expectedSha256": "e03b52b31f32ac0286ca93c30f226008449d36811fe83799b385e3bdf5d7296a",
-      "actualSha256": "e03b52b31f32ac0286ca93c30f226008449d36811fe83799b385e3bdf5d7296a",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoassetcore-1.0.0-neoforge.jar",
-      "size": 50839,
-      "ok": true
-    },
-    {
-      "file": "echoatmospherecore-1.0.0-neoforge.jar",
-      "expectedSha256": "b4c2b181510d0183b45c928642722a017fc0a49a3e7a9ce9b8c9a5783d1368c0",
-      "actualSha256": "b4c2b181510d0183b45c928642722a017fc0a49a3e7a9ce9b8c9a5783d1368c0",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoatmospherecore-1.0.0-neoforge.jar",
-      "size": 34280,
-      "ok": true
-    },
-    {
-      "file": "echoblockworks-1.0.0-neoforge.jar",
-      "expectedSha256": "834bb5e32218cc045feb45f6241d92facba54a4fb41181845294ad1606267c25",
-      "actualSha256": "834bb5e32218cc045feb45f6241d92facba54a4fb41181845294ad1606267c25",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoblockworks-1.0.0-neoforge.jar",
-      "size": 1344987,
-      "ok": true
-    },
-    {
-      "file": "echocameracore-1.0.0-neoforge.jar",
-      "expectedSha256": "20f6c794e13fa757ae9536f403b8aaa559020181b399b8e2edef3c943a2b10bb",
-      "actualSha256": "20f6c794e13fa757ae9536f403b8aaa559020181b399b8e2edef3c943a2b10bb",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echocameracore-1.0.0-neoforge.jar",
-      "size": 23441,
-      "ok": true
-    },
-    {
-      "file": "echocommonloot-0.1.0-neoforge.jar",
-      "expectedSha256": "82fc1cbb444419214b45ab6b1879cbc7b1d35b81de472af079a3b6a708bd0b94",
-      "actualSha256": "82fc1cbb444419214b45ab6b1879cbc7b1d35b81de472af079a3b6a708bd0b94",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echocommonloot-0.1.0-neoforge.jar",
-      "size": 13450,
-      "ok": true
-    },
-    {
-      "file": "echocontentcore-1.0.0-neoforge.jar",
-      "expectedSha256": "4641c1eca5c096d5d897899829b9d857ae4bc635bf9c473ec963b2fda89ea50d",
-      "actualSha256": "4641c1eca5c096d5d897899829b9d857ae4bc635bf9c473ec963b2fda89ea50d",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echocontentcore-1.0.0-neoforge.jar",
-      "size": 38593,
-      "ok": true
-    },
-    {
-      "file": "echocore-1.0.0-neoforge.jar",
-      "expectedSha256": "1a9d4cd0c4a156f45141e01a0d77f2b4845b00f6d0f66c6e3a1310ae9e02fb27",
-      "actualSha256": "1a9d4cd0c4a156f45141e01a0d77f2b4845b00f6d0f66c6e3a1310ae9e02fb27",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echocore-1.0.0-neoforge.jar",
-      "size": 377909,
-      "ok": true
-    },
-    {
-      "file": "echocreatureroles-0.1.0-neoforge.jar",
-      "expectedSha256": "2adecf03e8e7170c0940d9b2e73a45f6db77929e9d93e83fa8991e02039cd781",
-      "actualSha256": "2adecf03e8e7170c0940d9b2e73a45f6db77929e9d93e83fa8991e02039cd781",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echocreatureroles-0.1.0-neoforge.jar",
-      "size": 13212,
-      "ok": true
-    },
-    {
-      "file": "echoeconomycore-1.0.0-neoforge.jar",
-      "expectedSha256": "42929c1ee4f52b00247076e664657b35e048d8633785f41360ed03755851673f",
-      "actualSha256": "42929c1ee4f52b00247076e664657b35e048d8633785f41360ed03755851673f",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoeconomycore-1.0.0-neoforge.jar",
-      "size": 34367,
-      "ok": true
-    },
-    {
-      "file": "echofoundationcore-0.1.0-neoforge.jar",
-      "expectedSha256": "0e5ef37b1a014eca0cd02d4559a419ab6da5d45d52a96b78ad71aabce1cc6676",
-      "actualSha256": "0e5ef37b1a014eca0cd02d4559a419ab6da5d45d52a96b78ad71aabce1cc6676",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echofoundationcore-0.1.0-neoforge.jar",
-      "size": 16691,
-      "ok": true
-    },
-    {
-      "file": "echoholomap-1.0.0-neoforge.jar",
-      "expectedSha256": "a03851b377b123cd249bc0ed4027d0d0903d5d7ef89b144d9fc63a77889e515d",
-      "actualSha256": "a03851b377b123cd249bc0ed4027d0d0903d5d7ef89b144d9fc63a77889e515d",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoholomap-1.0.0-neoforge.jar",
-      "size": 1502499,
-      "ok": true
-    },
-    {
-      "file": "echohudcore-1.0.0-neoforge.jar",
-      "expectedSha256": "5089ed8668b09fc1b782061184e35a51bc86615df0bcc1c69347f72e2b965f1a",
-      "actualSha256": "5089ed8668b09fc1b782061184e35a51bc86615df0bcc1c69347f72e2b965f1a",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echohudcore-1.0.0-neoforge.jar",
-      "size": 52011,
-      "ok": true
-    },
-    {
-      "file": "echoindex-1.0.0-neoforge.jar",
-      "expectedSha256": "3f74d457b0cb51384642579ea4652c0641c517014de4913e668896c41a28e2b9",
-      "actualSha256": "3f74d457b0cb51384642579ea4652c0641c517014de4913e668896c41a28e2b9",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoindex-1.0.0-neoforge.jar",
-      "size": 595044,
-      "ok": true
-    },
-    {
-      "file": "echoindustrialnexus-1.0.0-neoforge.jar",
-      "expectedSha256": "040f96c763dede6867d3198cd11d07442af1e5d92181b1ad0a27c60c1622f617",
-      "actualSha256": "040f96c763dede6867d3198cd11d07442af1e5d92181b1ad0a27c60c1622f617",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoindustrialnexus-1.0.0-neoforge.jar",
-      "size": 5346362,
-      "ok": true
-    },
-    {
-      "file": "echolens-1.0.0-neoforge.jar",
-      "expectedSha256": "7a9c1572ac5888a043367124d12771b095c6bf2aeef98fe32863cf423d1ec404",
-      "actualSha256": "7a9c1572ac5888a043367124d12771b095c6bf2aeef98fe32863cf423d1ec404",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echolens-1.0.0-neoforge.jar",
-      "size": 221150,
-      "ok": true
-    },
-    {
-      "file": "echologisticsnetwork-1.0.0-neoforge.jar",
-      "expectedSha256": "ad3bb580144bfeceee3680e24c4622b017e329476b4f9142916039bcb32052fc",
-      "actualSha256": "ad3bb580144bfeceee3680e24c4622b017e329476b4f9142916039bcb32052fc",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echologisticsnetwork-1.0.0-neoforge.jar",
-      "size": 3684736,
-      "ok": true
-    },
-    {
-      "file": "echomaterialcore-0.1.0-neoforge.jar",
-      "expectedSha256": "258f234b4d7f946089dbd9e97b178a480c6f01f8175da2b373d15c1a5c20a2c3",
-      "actualSha256": "258f234b4d7f946089dbd9e97b178a480c6f01f8175da2b373d15c1a5c20a2c3",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echomaterialcore-0.1.0-neoforge.jar",
-      "size": 27835,
-      "ok": true
-    },
-    {
-      "file": "echomissioncore-1.0.0-neoforge.jar",
-      "expectedSha256": "782e03be18781d2a61854358cd7b76f9dc6161c7b3aa44d8c1462bc3cf3d2c04",
-      "actualSha256": "782e03be18781d2a61854358cd7b76f9dc6161c7b3aa44d8c1462bc3cf3d2c04",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echomissioncore-1.0.0-neoforge.jar",
-      "size": 109697,
-      "ok": true
-    },
-    {
-      "file": "echomultiblockcore-1.0.0-neoforge.jar",
-      "expectedSha256": "f4302d13ce93450828e3b653ecb915cf420cb965ff5bbafc0310bf64ecadf1de",
-      "actualSha256": "f4302d13ce93450828e3b653ecb915cf420cb965ff5bbafc0310bf64ecadf1de",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echomultiblockcore-1.0.0-neoforge.jar",
-      "size": 12701641,
-      "ok": true
-    },
-    {
-      "file": "echonetcore-1.0.0-neoforge.jar",
-      "expectedSha256": "08b092f4af0efb5ed10c189c22f86e2ed0d9552bd1aa506fe4a33a8e172bde22",
-      "actualSha256": "08b092f4af0efb5ed10c189c22f86e2ed0d9552bd1aa506fe4a33a8e172bde22",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echonetcore-1.0.0-neoforge.jar",
-      "size": 73882,
-      "ok": true
-    },
-    {
-      "file": "echoorbitalremnants-1.0.0-neoforge.jar",
-      "expectedSha256": "f67c6f39339d24a9c2c3a4d21a1a0be707620534b5fcd69805135eefb1290911",
-      "actualSha256": "f67c6f39339d24a9c2c3a4d21a1a0be707620534b5fcd69805135eefb1290911",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoorbitalremnants-1.0.0-neoforge.jar",
-      "size": 14508140,
-      "ok": true
-    },
-    {
-      "file": "echoplatformcore-1.0.0-neoforge.jar",
-      "expectedSha256": "8b4a2f31d63da0c0888c08c19d538c13d921ccd5425da5b985fcd55ec7adc0d3",
-      "actualSha256": "8b4a2f31d63da0c0888c08c19d538c13d921ccd5425da5b985fcd55ec7adc0d3",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoplatformcore-1.0.0-neoforge.jar",
-      "size": 51598,
-      "ok": true
-    },
-    {
-      "file": "echopowergrid-1.0.0-neoforge.jar",
-      "expectedSha256": "5b2e34dcb2bd68d684b13e9bd06831d3584780be8a7c8afb5dd888aa0a49a929",
-      "actualSha256": "5b2e34dcb2bd68d684b13e9bd06831d3584780be8a7c8afb5dd888aa0a49a929",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echopowergrid-1.0.0-neoforge.jar",
-      "size": 7202724,
-      "ok": true
-    },
-    {
-      "file": "echoprogressioncore-1.0.0-neoforge.jar",
-      "expectedSha256": "a941008c94651a90c81620256ab6ebbcf2ff67493224de5c2918334c9b6e6f3d",
-      "actualSha256": "a941008c94651a90c81620256ab6ebbcf2ff67493224de5c2918334c9b6e6f3d",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoprogressioncore-1.0.0-neoforge.jar",
-      "size": 52024,
-      "ok": true
-    },
-    {
-      "file": "echorecipecore-1.0.0-neoforge.jar",
-      "expectedSha256": "41c5ac3cd99bfcfae69d57f8b98531dc1c714a56f22abcc57351c1e599802e02",
-      "actualSha256": "41c5ac3cd99bfcfae69d57f8b98531dc1c714a56f22abcc57351c1e599802e02",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echorecipecore-1.0.0-neoforge.jar",
-      "size": 43167,
-      "ok": true
-    },
-    {
-      "file": "echorecovery-1.3.0-neoforge.jar",
-      "expectedSha256": "747f71bbe6c3b35fd3738ad6aa8f1fe0018f0b47f23b669bac818a56841c83fd",
-      "actualSha256": "747f71bbe6c3b35fd3738ad6aa8f1fe0018f0b47f23b669bac818a56841c83fd",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echorecovery-1.3.0-neoforge.jar",
-      "size": 2694979,
-      "ok": true
-    },
-    {
-      "file": "echoruntimeguard-1.0.0-neoforge.jar",
-      "expectedSha256": "d639cc2b798cd6369989e67cbd76e406980aeae8e47ecdc8697682746b8fd056",
-      "actualSha256": "d639cc2b798cd6369989e67cbd76e406980aeae8e47ecdc8697682746b8fd056",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoruntimeguard-1.0.0-neoforge.jar",
-      "size": 133530,
-      "ok": true
-    },
-    {
-      "file": "echoschemacore-1.0.0-neoforge.jar",
-      "expectedSha256": "3fd00375fcbb49ab714d2a733340b63e420329331d57db1f2e73a983dc084410",
-      "actualSha256": "3fd00375fcbb49ab714d2a733340b63e420329331d57db1f2e73a983dc084410",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoschemacore-1.0.0-neoforge.jar",
-      "size": 35669,
-      "ok": true
-    },
-    {
-      "file": "echoscreencore-1.0.0-neoforge.jar",
-      "expectedSha256": "972cb77f6c9ac9401a99897bcce503f3516b50863954888e6d9d2521b4321c22",
-      "actualSha256": "972cb77f6c9ac9401a99897bcce503f3516b50863954888e6d9d2521b4321c22",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoscreencore-1.0.0-neoforge.jar",
-      "size": 398395,
-      "ok": true
-    },
-    {
-      "file": "echoskyrelayprotocol-0.1.0-neoforge.jar",
-      "expectedSha256": "037b9991ac22afdfd97b025a1c0ba34d643d299bdf2ad3fa00ef20ca0dbf7815",
-      "actualSha256": "037b9991ac22afdfd97b025a1c0ba34d643d299bdf2ad3fa00ef20ca0dbf7815",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoskyrelayprotocol-0.1.0-neoforge.jar",
-      "size": 61794,
-      "ok": true
-    },
-    {
-      "file": "echosocialcore-1.0.0-neoforge.jar",
-      "expectedSha256": "f8f4bb42e2db29710ba9185f55b4c77eeb0461a3a4ed2e99ac6c46dc7293aa19",
-      "actualSha256": "f8f4bb42e2db29710ba9185f55b4c77eeb0461a3a4ed2e99ac6c46dc7293aa19",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echosocialcore-1.0.0-neoforge.jar",
-      "size": 62525,
-      "ok": true
-    },
-    {
-      "file": "echosoundcore-1.0.0-neoforge.jar",
-      "expectedSha256": "c3fb3f3249e7f56a1f6c3b1e481b0b0ae50158c267d84c53a90e51b8b0c5332b",
-      "actualSha256": "c3fb3f3249e7f56a1f6c3b1e481b0b0ae50158c267d84c53a90e51b8b0c5332b",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echosoundcore-1.0.0-neoforge.jar",
-      "size": 11085994,
-      "ok": true
-    },
-    {
-      "file": "echostationcore-0.1.0-neoforge.jar",
-      "expectedSha256": "e2bad635f969f70082e3656d9d573760bcf31de03a5a2e0deb8512b87049e6db",
-      "actualSha256": "e2bad635f969f70082e3656d9d573760bcf31de03a5a2e0deb8512b87049e6db",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echostationcore-0.1.0-neoforge.jar",
-      "size": 17217,
-      "ok": true
-    },
-    {
-      "file": "echoterminal-1.0.0-neoforge.jar",
-      "expectedSha256": "ea6aaa408788d22f1e1341f94d3470edefd995c2e9fc8b36cc455cd21e7a11f6",
-      "actualSha256": "ea6aaa408788d22f1e1341f94d3470edefd995c2e9fc8b36cc455cd21e7a11f6",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoterminal-1.0.0-neoforge.jar",
-      "size": 22996376,
-      "ok": true
-    },
-    {
-      "file": "echothemecore-1.3.0-neoforge.jar",
-      "expectedSha256": "7ac0576634cc7db4c736ea9b0fe56144b71d9957e87a857f77f0f471dfdec8a9",
-      "actualSha256": "7ac0576634cc7db4c736ea9b0fe56144b71d9957e87a857f77f0f471dfdec8a9",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echothemecore-1.3.0-neoforge.jar",
-      "size": 69627526,
-      "ok": true
-    },
-    {
-      "file": "echotoolcore-0.1.0-neoforge.jar",
-      "expectedSha256": "06c56ca2066a8eba2ae898b2a8cf8662d71bd411b29bcea788f9cb7acb078ad0",
-      "actualSha256": "06c56ca2066a8eba2ae898b2a8cf8662d71bd411b29bcea788f9cb7acb078ad0",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echotoolcore-0.1.0-neoforge.jar",
-      "size": 16695,
-      "ok": true
-    },
-    {
-      "file": "echotutorialcore-1.0.0-neoforge.jar",
-      "expectedSha256": "d7cc3706f139980fbb85a694d63765a69a997991e75f875026e00ae983524685",
-      "actualSha256": "d7cc3706f139980fbb85a694d63765a69a997991e75f875026e00ae983524685",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echotutorialcore-1.0.0-neoforge.jar",
-      "size": 220748,
-      "ok": true
-    },
-    {
-      "file": "echovalidationcore-1.0.0-neoforge.jar",
-      "expectedSha256": "cb4cbde2b3c65acfe2dfa75d45eef3d3fc47cf926b85e2cc67d3bdd6403d8444",
-      "actualSha256": "cb4cbde2b3c65acfe2dfa75d45eef3d3fc47cf926b85e2cc67d3bdd6403d8444",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echovalidationcore-1.0.0-neoforge.jar",
-      "size": 47124,
-      "ok": true
-    },
-    {
-      "file": "echoweathercore-1.0.0-neoforge.jar",
-      "expectedSha256": "4d72914627872021cef9b0101e8caf8d9bd7965e338d4e22064490409f3e030e",
-      "actualSha256": "4d72914627872021cef9b0101e8caf8d9bd7965e338d4e22064490409f3e030e",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoweathercore-1.0.0-neoforge.jar",
-      "size": 257550,
-      "ok": true
-    },
-    {
-      "file": "echoworldcore-1.0.0-neoforge.jar",
-      "expectedSha256": "3242f1974e1234e744bd4df30c5654a57f1e4648ad71449c518ee0d63db9259c",
-      "actualSha256": "3242f1974e1234e744bd4df30c5654a57f1e4648ad71449c518ee0d63db9259c",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoworldcore-1.0.0-neoforge.jar",
-      "size": 183149,
-      "ok": true
-    },
-    {
-      "file": "echoworldstarter-0.1.0-neoforge.jar",
-      "expectedSha256": "9d756323c91a2a2902e84f7a6095c19ab47b02cc2682d0eb5b525e647207ccd5",
-      "actualSha256": "9d756323c91a2a2902e84f7a6095c19ab47b02cc2682d0eb5b525e647207ccd5",
-      "coveredBy": "zip-entry",
-      "matchedPath": "mods/echoworldstarter-0.1.0-neoforge.jar",
-      "size": 17966,
-      "ok": true
+      "matchedPath": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json"
     }
   ],
   "missingChecksumEntries": [],
