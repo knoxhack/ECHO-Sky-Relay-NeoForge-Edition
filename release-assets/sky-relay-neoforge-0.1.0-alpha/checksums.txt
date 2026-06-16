@@ -1,3 +1,7 @@
-79960d3684cbca3dfac6244f34ac2075cfea1b87df32fae959f3f1bdea058fcd  echo-release.json
-97d37ae079e732c2dc9940098ca23e5f92724bdd546248bc212da6ce58439f11  sky-relay-neoforge-edition-0.1.0.zip
-31ca2357842b4b677a75a54270450258baccd2a5438d843b82396b37c627a2ec  sky-relay-neoforge-edition-alpha-0.1.0.pack.json
+1766f7e8fe95ca184111c959025fa4e6f4fa3392f5dbfeac12e17285fac96541  neoforge-harness-driver-manifest.template.json
+4833e37e8401491d44b11aa07785b5cbd81b1ab3f74271a08ddceff28e7f0c31  sky-relay-neoforge-edition-alpha-0.1.0.pack.json
+60534c60876c631db0d557c9b7cfb6fbc31f4ba36d5315779e7bd578811b4a71  sky-relay-neoforge-edition-0.1.0.zip
+73d58ca7a71a7373d074b14398996094aa5566d2c8bc973be4ea54c4cc2e494a  echo-release.json
+a0c49c485b9eaf3d0392f1ddb1c872549c235ce7e8b0fa824e59b21ed35277d8  sky-relay-pack-build-report.json
+dd29aa1a255590b611fde1c2cd321211872462f8f003fd23af53efcacba99393  release-manifest.template.json
+efb3358ecd78f4a0814b2cd152ac95651b6b390b32197f06d98a19b5bfc1f95a  release-audit.json
