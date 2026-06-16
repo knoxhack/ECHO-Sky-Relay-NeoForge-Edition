@@ -1,4 +1,4 @@
-9701b45e52751cda803fcf9a8efddf2e334020e3524bcb72915f400fc128c6cc  echo-release.json
-8ef405da2c07c6190d3f46ca2a7acdf922c0eaf0138defc78ef527b89b2053f9  release-audit.json
-277e350cf44d9422b296e97f706bccc1c9da5b8daf738f818fb0e2c7dae177b1  sky-relay-neoforge-edition-0.1.0.zip
-6edbe2a29003e079510fe22dccce0b179bad406d14bcf6a005a63630e989b41b  sky-relay-neoforge-edition-alpha-0.1.0.pack.json
+ce4ae477faba89a3c8931610860834c2f1a40f97b75414694c61f649d015502a  echo-release.json
+8f629f5cc4fa2c20f71d6587979f2bdab3a9d868d9485ef0db934e405e4dca30  release-audit.json
+1e510a11c51fedd4ebcc5032c656b3b87b3d71e358113c5cc84f850e51c75f77  sky-relay-neoforge-edition-0.1.0.zip
+59485a78ccd2e4cd2f8895f214a90ab666f7608de9368e677ea75b3527992af7  sky-relay-neoforge-edition-alpha-0.1.0.pack.json

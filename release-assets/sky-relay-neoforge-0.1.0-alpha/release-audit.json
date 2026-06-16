@@ -12,13 +12,13 @@
   "moduleCount": 43,
   "artifact": {
     "name": "sky-relay-neoforge-edition-0.1.0.zip",
-    "sha256": "277e350cf44d9422b296e97f706bccc1c9da5b8daf738f818fb0e2c7dae177b1",
-    "size": 155205694
+    "sha256": "1e510a11c51fedd4ebcc5032c656b3b87b3d71e358113c5cc84f850e51c75f77",
+    "size": 155203951
   },
   "manifest": {
     "name": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
-    "sha256": "6edbe2a29003e079510fe22dccce0b179bad406d14bcf6a005a63630e989b41b",
-    "size": 86887
+    "sha256": "59485a78ccd2e4cd2f8895f214a90ab666f7608de9368e677ea75b3527992af7",
+    "size": 86651
   },
-  "generatedAt": "2026-06-16T01:23:16.212Z"
+  "generatedAt": "2026-06-16T02:21:57.346Z"
 }
