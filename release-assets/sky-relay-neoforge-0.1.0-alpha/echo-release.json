@@ -4,14 +4,14 @@
   "name": "Sky Relay NeoForge Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "releasedAt": "2026-06-16T00:34:25.739Z",
+  "releasedAt": "2026-06-16T01:23:16.213Z",
   "manifestAsset": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "4833e37e8401491d44b11aa07785b5cbd81b1ab3f74271a08ddceff28e7f0c31",
-  "manifestSize": 86081,
+  "manifestSha256": "6edbe2a29003e079510fe22dccce0b179bad406d14bcf6a005a63630e989b41b",
+  "manifestSize": 86887,
   "artifactMode": "zip",
   "artifactAsset": "sky-relay-neoforge-edition-0.1.0.zip",
-  "artifactSha256": "60534c60876c631db0d557c9b7cfb6fbc31f4ba36d5315779e7bd578811b4a71",
-  "artifactSize": 157529636,
+  "artifactSha256": "277e350cf44d9422b296e97f706bccc1c9da5b8daf738f818fb0e2c7dae177b1",
+  "artifactSize": 155205694,
   "moduleRelease": "release-index-current-module-artifacts-20260616",
   "packs": [
     {
@@ -27,21 +27,21 @@
     {
       "name": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "4833e37e8401491d44b11aa07785b5cbd81b1ab3f74271a08ddceff28e7f0c31",
-      "size": 86909
+      "sha256": "6edbe2a29003e079510fe22dccce0b179bad406d14bcf6a005a63630e989b41b",
+      "size": 86887
     },
     {
       "name": "sky-relay-neoforge-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "60534c60876c631db0d557c9b7cfb6fbc31f4ba36d5315779e7bd578811b4a71",
-      "size": 157529636
+      "sha256": "277e350cf44d9422b296e97f706bccc1c9da5b8daf738f818fb0e2c7dae177b1",
+      "size": 155205694
     },
     {
       "name": "echoadaptercore-1.0.0-neoforge.jar",
       "role": "pack-file",
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
-      "sha256": "58172c454a08644d794b0d4a29d1a7b5bab8651c6657006a8caa091fbf308188",
-      "size": 957538
+      "sha256": "06e762775bab4ae85178d8ce8af4ad0065fb95aa033841c8290d9b756b84fb21",
+      "size": 970532
     },
     {
       "name": "echoagriculturereclamation-1.0.0-neoforge.jar",

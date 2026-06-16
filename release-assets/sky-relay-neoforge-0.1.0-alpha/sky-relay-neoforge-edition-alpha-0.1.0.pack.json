@@ -19,9 +19,9 @@
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "58172c454a08644d794b0d4a29d1a7b5bab8651c6657006a8caa091fbf308188",
-      "size": 957538,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-content-graph-evidence-proof-20260615/echoadaptercore-1.0.0-neoforge.jar"
+      "sha256": "06e762775bab4ae85178d8ce8af4ad0065fb95aa033841c8290d9b756b84fb21",
+      "size": 970532,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/adaptercore-receipt-spine-20260616/echoadaptercore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoagriculturereclamation",
@@ -668,9 +668,9 @@
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "58172c454a08644d794b0d4a29d1a7b5bab8651c6657006a8caa091fbf308188",
-      "size": 957538,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-content-graph-evidence-proof-20260615/echoadaptercore-1.0.0-neoforge.jar"
+      "sha256": "06e762775bab4ae85178d8ce8af4ad0065fb95aa033841c8290d9b756b84fb21",
+      "size": 970532,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/adaptercore-receipt-spine-20260616/echoadaptercore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoagriculturereclamation",
@@ -2031,12 +2031,12 @@
   "runtimeTarget": "neoforge",
   "id": "sky-relay-neoforge-edition",
   "artifactUrl": "https://github.com/knoxhack/ECHO-Sky-Relay-NeoForge-Edition/releases/download/sky-relay-neoforge-0.1.0-alpha/sky-relay-neoforge-edition-0.1.0.zip",
-  "updatedAt": "2026-06-14T00:30:54.446Z",
+  "updatedAt": "2026-06-16T01:23:10.269Z",
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "approved",
   "manifestAsset": "sky-relay-neoforge-edition-alpha-0.1.0.pack.json",
   "moduleRelease": "release-index-current-module-artifacts-20260616",
   "moduleSourceRevision": "ECHO-Release-Index modules/*.json current artifacts, 2026-06-16",
-  "artifactSha256": "60534c60876c631db0d557c9b7cfb6fbc31f4ba36d5315779e7bd578811b4a71",
-  "artifactSize": 157529636
+  "artifactSha256": "277e350cf44d9422b296e97f706bccc1c9da5b8daf738f818fb0e2c7dae177b1",
+  "artifactSize": 155205694
 }
