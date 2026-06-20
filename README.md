@@ -17,8 +17,8 @@ recipes, fragment anchoring, storm behavior, save/load, and launcher flows pass.
 
 ## Release Assets
 
-- GitHub prerelease tag: sky-relay-neoforge-0.1.0-alpha
-- Checked-in payloads: release-assets/sky-relay-neoforge-0.1.0-alpha/
-- Uploaded assets: sky-relay-neoforge-edition-0.1.0.zip, sky-relay-neoforge-edition-alpha-0.1.0.pack.json, checksums.txt, echo-release.json, neoforge-harness-driver-manifest.template.json, release-manifest.template.json, sky-relay-pack-build-report.json
+- GitHub prerelease tag: `sky-relay-neoforge-0.1.2-beta`
+- Checked-in payloads: `release-assets/sky-relay-neoforge-0.1.2-beta/`
+- Uploaded assets: `sky-relay-neoforge-edition-0.1.2.zip`, `sky-relay-neoforge-edition-beta-0.1.2.pack.json`, `checksums.txt`, `echo-release.json`, `release-audit.json`
 
-These files mirror the live GitHub prerelease assets so the source repository has the same release payload shape as Ashfall.
+These files mirror the live GitHub prerelease assets and the Release Index beta catalog.

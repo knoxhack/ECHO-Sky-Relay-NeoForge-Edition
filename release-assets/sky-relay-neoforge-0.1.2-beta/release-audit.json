@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "echo.official_modpack.release_audit.v1",
+  "status": "rebuilt-from-current-module-catalog",
+  "pack": "sky-relay-neoforge-edition",
+  "name": "Sky Relay NeoForge Edition",
+  "version": "0.1.2",
+  "channel": "beta",
+  "moduleRelease": "modules-beta-full-20260620",
+  "moduleSourceRevision": "ECHO-Modules modules-beta-full-20260620 (2a1c2ec8), 2026-06-20",
+  "releaseTag": "sky-relay-neoforge-0.1.2-beta",
+  "sourceRepo": "knoxhack/ECHO-Sky-Relay-NeoForge-Edition",
+  "moduleCount": 43,
+  "artifact": {
+    "name": "sky-relay-neoforge-edition-0.1.2.zip",
+    "sha256": "c565c487d109963761a2900daa183aaf48a22c0a57adb0af7010e0945e275a85",
+    "size": 155306696
+  },
+  "manifest": {
+    "name": "sky-relay-neoforge-edition-beta-0.1.2.pack.json",
+    "sha256": "c5848da77dd7afd8a08e2f320517909243946dc902c37d0388cf2de4ebeb34c9",
+    "size": 85472
+  },
+  "generatedAt": "2026-06-20T04:42:08.057Z"
+}
